@@ -1,5 +1,3 @@
-# vue-hackathon
-
 > Client Vue.js pour Funtournament
 
 ## Build Setup

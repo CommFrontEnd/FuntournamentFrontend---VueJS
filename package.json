@@ -2,7 +2,7 @@
   "name": "funtournament-frontend",
   "version": "1.0.0",
   "description": "",
-  "author": "HakaMll",
+  "author": "Maxence Minguet",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

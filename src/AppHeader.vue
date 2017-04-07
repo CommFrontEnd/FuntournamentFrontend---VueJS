@@ -1,7 +1,7 @@
 <template>
   <header class="mdl-layout__header mdl-color--light-blue-900 mdl-color-text--grey-100">
     <div class="mdl-layout__header-row">
-      <span class="mdl-layout-title">Opendata Hackathon</span>
+      <span class="mdl-layout-title">Funtournament</span>
       <div class="mdl-layout-spacer"></div>
       <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable">
         <label class="mdl-button mdl-js-button mdl-button--icon" for="search">
